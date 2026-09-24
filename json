@@ -1,8 +1,0 @@
-POST /api/v2
-{
-  "key": "TAWHID_SECRET_API_KEY_2026",
-  "action": "add",
-  "service": "101",
-  "link": "https://facebook.com/target_page",
-  "quantity": "1000"
-}
